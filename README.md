@@ -13,7 +13,7 @@ Para ejecutar los códigos en el lenguaje de programación Python se requiere un
 Los Sondeos Eléctricos Verticales (SEV) son un método geofísico ampliamente utilizado en estudios de exploración hidrogeológica, ambiental y minera. La inversión con este método permite estimar un modelo de resistividad del subsuelo, aporta alta resolución en las estructuras poco profundas y es dependiente principalmente de la longitud máxima entre electrodos.
 
 # ¿Cómo colaborar con el proyecto?
-Ayúdame difundiendo. Encuentra errores y repórtalos en un issue en GitHub. 
+Ayúdanos difundiendo. Encuentra errores y repórtalos en un issue en GitHub. 
 
 # Contacto
 Para cualquier consulta, puedes contactarnos a través de nuestras redes sociales.
