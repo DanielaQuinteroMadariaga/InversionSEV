@@ -20,4 +20,6 @@ Los Sondeos Eléctricos Verticales (SEV) y los Sondeos Electromagnéticos en el 
 
 # ¿Cómo colaborar con el proyecto? 🤝
 Ayúdame difundiendo. Encuentra errores y repórtalos en un issue en GitHub. También puedes contactarme por medio de mis redes sociales.
-![image](https://github.com/user-attachments/assets/d7719ea3-7cf9-4cb0-9bc1-f7ae5533405f)  https://www.linkedin.com/in/erick-villamizar-6a342126a/
+Erick Villamizar: erick2202440@correo.uis.edu.co
+
+Daniela Quinntero: daniela2202434@correo.uis.edu.co
